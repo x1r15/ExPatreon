@@ -1,8 +1,8 @@
 # PITI'S SUPER CUSTOM LICENSE
 
-> Version 1.0, August 2022
+> Version 1.1, Apriil 2023
 
-> Copyright (C) 2022 Piotr Wyszynski
+> Copyright (C) 2023 Piotr Wyszynski
 
 > PITI'S SUPER CUSTOM LICENSE
 > TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
