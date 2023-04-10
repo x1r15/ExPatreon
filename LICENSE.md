@@ -1,6 +1,6 @@
 # PITI'S SUPER CUSTOM LICENSE
 
-> Version 1.1, Apriil 2023
+> Version 1.1, April 2023
 
 > Copyright (C) 2023 Piotr Wyszynski
 
